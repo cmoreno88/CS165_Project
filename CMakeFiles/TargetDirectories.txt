@@ -1,4 +1,0 @@
-/home/csmajs/cmore035/CS165_Project/CMakeFiles/rebuild_cache.dir
-/home/csmajs/cmore035/CS165_Project/CMakeFiles/edit_cache.dir
-/home/csmajs/cmore035/CS165_Project/CMakeFiles/server.dir
-/home/csmajs/cmore035/CS165_Project/CMakeFiles/client.dir
